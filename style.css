@@ -1,0 +1,151 @@
+*{
+    margin: 0;
+    padding: o;
+}
+ul li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.topbar{
+    background-color: #316DC3;
+   
+}
+.ico {
+    color: rgb(247, 248, 250);
+    margin: 16px 12px 16px 12px;   
+    
+}
+.whatsapp {
+    background-color: rgb(101, 188, 84);
+    color: rgb(247, 248, 250);
+    margin: 16px 12px 16px 12px;
+}
+.text{
+    padding-top: 10px;
+    color: rgb(247, 248, 250);
+    font-size: 15px;
+    
+
+}
+.button{
+    font-size: x-small;
+    margin-top: 10px;
+  
+    }
+ .saylainlogo{
+        margin-left: 100px;
+}   
+.bg-color{
+    height: 80px;
+    
+
+}
+ 
+        
+    .marquee{
+        padding-top: 110px;        
+    }
+   . green {
+        color: rgb(0, 254, 1);
+    }
+    
+    .more {
+        color: rgb(0, 0, 255);
+        text-decoration: none;
+    }
+    .intro {
+        background-color: rgb(247, 248, 250);
+        padding: 50px;
+        padding-top: 15px;
+    }
+    /* .intr{
+        background-color: rgb(247, 248, 250);   
+    }
+     */
+    .heading {
+        text-align: center;
+    }
+    .hr1 {
+        background-color: rgb(66, 121, 0);
+    }
+    .img{
+        width: 50px;
+        margin-left: 80px;
+        display: inline;
+    }
+    .num{
+        color: white;
+    font-size: 60px;
+    }
+    .text{
+        color: white;
+    font-size: 16px;
+
+    }
+    .month{
+
+        color: rgb(0, 254, 1);
+    }
+    .box {
+        text-align: center;
+        margin-top: 30px;
+    }
+    
+    .shadows {
+        background-color: white;
+        padding: 30px 0px;
+        box-shadow: 0px 0px 20px gray;
+    }
+    
+    .activities {
+        color: #316DC3;
+        font-size: 21px;
+        margin-top: 20px;
+    }
+    .separator{
+        width: 70px;
+        height: 3px;
+        background-color: rgb(66, 121, 0);
+         display: block;
+    }
+    .project{
+        margin-top: 20px;
+    }
+
+
+    a{
+        text-decoration: none;
+    
+    }
+    ul li{
+        list-style: none;
+    }
+    .show-in-line{
+        display: block;
+    }
+
+    .menu ul li{
+        display: inline-block;
+        margin-top: 20px;
+    }
+    .menu ul li a{
+        padding:5px 25px;
+        color: black;
+        font-size: 14px;
+        
+    }
+    .menu ul li a:hover{
+        background-color: royalblue;
+        color: #ffffff;
+        border-radius: 20px;
+       
+    }
+    .footer{
+        /* border: 2px solid firebrick; */
+        height: 50px;
+        width: 100%;
+        background-color: royalblue;
+        
+      }
